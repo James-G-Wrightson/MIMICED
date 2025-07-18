@@ -1,0 +1,1 @@
+These are the analysis notebooks for the "Estimating the Proportion of Avoidable Visits to the Emergency Department for Musculoskeletal Pain Conditions" posters presented in 2025. Open the [workflow](./1_workflow_START_HERE.ipynb) file to navigate through the analysis
