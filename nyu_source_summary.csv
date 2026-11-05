@@ -1,0 +1,25 @@
+item,icd_version,value
+rows_read: NYU ED Algorithm - ICD10 Codes - Updated 2.4.25.xlsx,10,75242
+rows_read: NYU_ED_Algorithm_-_ICD-9_Codes_-_6.23.15.xlsx,9,14613
+rows_read: hesr12638-sup-0007-appendixs6.txt,9,7443
+rows_read: hesr12638-sup-0007-appendixs7.txt,10,47132
+nyu_codes_overridden_by_johnston,9,6663
+nyu_codes_overridden_by_johnston,10,47132
+combined_lookup_duplicate_codes,9,0
+combined_lookup_duplicate_codes,10,0
+combined_lookup_rows,9,15393
+combined_lookup_rows,10,75242
+distinct_primary_codes,9,4316
+distinct_primary_codes,10,8331
+distinct_primary_codes_matched: johnston_extension,9,2348
+distinct_primary_codes_matched: johnston_extension,10,5029
+distinct_primary_codes_matched: neither,9,0
+distinct_primary_codes_matched: neither,10,0
+distinct_primary_codes_matched: nyu_original,9,1968
+distinct_primary_codes_matched: nyu_original,10,3302
+visits_matched: johnston_extension,9,173522
+visits_matched: johnston_extension,10,178190
+visits_matched: neither,9,0
+visits_matched: neither,10,0
+visits_matched: nyu_original,9,29341
+visits_matched: nyu_original,10,43654

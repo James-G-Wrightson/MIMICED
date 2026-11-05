@@ -1,0 +1,23 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Third-party code lists for the Diagnosis (NYU ED) label: download manually,
+# never commit (see README, "Required external files")
+*.xlsx
+hesr12638-sup-*.txt
+
+# MIMIC raw data (PhysioNet, credentialed) and derived data
+# (plain names as well as folder/ because here they are symlinks)
+/hosp
+hosp/
+/mimic-iv-ed-2.2
+mimic-iv-ed-2.2/
+*.parquet
+*.npy
+*.npz
+*.pkl
+
+# Python virtual environment (uv)
+.venv/
